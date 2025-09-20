@@ -7,7 +7,7 @@ I'm a passionate developer who loves building, automating, and exploring the int
 
 ## 🚀 About Me
 
-- **Tech Stack:**  
+- **Tech:**  
   React | Next.js | Flutter | Supabase | PostgreSQL | Node.js | Express | Electron-React | Django  
   HuggingFace (model & space deployment) | Rust (learning) | Tauri (learning)  
   💻 Linux (Arch User!) | Terminal wizard | Bash scripting
@@ -18,7 +18,7 @@ I'm a passionate developer who loves building, automating, and exploring the int
 ## 🛠️ Favorite Projects
 
 - [Cattle Scan (Frontend)](https://github.com/Cattle-Scans/frontend) – Smart cattle management & scanning
-- [actjs (yt-music)](https://github.com/sap-code-101/yt-music) – Advanced JS utilities for your apps
+- [actjs](https://github.com/sap-code-101/yt-music) – a simple js frontend library like react(on pause) 
 - [Institution Portal](https://github.com/sap-code-101/Organized-Hakathon-2080-Arniko) – Modern campus management
 - On Campus Mart/Event – Making campus life digital (ask me for more info!)
 
