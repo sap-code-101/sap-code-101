@@ -3,7 +3,6 @@
 # Hi, I'm sap-code-101 👋
 
 Welcome to my GitHub profile!  
-I'm a passionate developer who loves building, automating, and exploring the intersection of software and hardware.
 
 ## 🚀 About Me
 
