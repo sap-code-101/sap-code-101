@@ -1,4 +1,4 @@
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Neural_network_example.png/800px-Neural_network_example.png" width="250" alt="Neural Network Banner"/>
+<img align="right" src="https://www.clker.com/cliparts/w/f/f/Q/C/C/neuron-cartoon-orange.svg.med.png" width="250" alt="Neural Network Banner"/>
 
 # Hi, I'm sap-code-101 👋
 
