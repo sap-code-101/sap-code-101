@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 - **Tech:**  
   React | Next.js | Flutter | Supabase | PostgreSQL | Node.js | Express | Electron-React | Django  
   HuggingFace (model & space deployment) | Rust (learning) | Tauri (learning)  
-  💻 Linux (Arch User!) | Terminal wizard | Bash scripting
+  💻 Linux (Arch User!) | Bash scripting
 
 - **Interests:**  
   Neuromorphic computing, automation workflows, and anything that makes technology smarter and more seamless.
